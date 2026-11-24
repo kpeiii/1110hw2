@@ -4,10 +4,10 @@
 
 ## 從這裡開始
 
-- [wiki/index.md](wiki/index.md):內容目錄
-- [wiki/overview.md](wiki/overview.md):整體綜述、爭議與資料缺口
-- [wiki/comparisons/risk-metrics-comparison.md](wiki/comparisons/risk-metrics-comparison.md):四種指標總比較
-- [AGENTS.md](AGENTS.md):Agent 的工作規範(頁面模板、出處標註、ingest / query / lint 流程)
+- [wiki/index.md](risk-wiki%202/wiki/index.md):內容目錄
+- [wiki/overview.md](risk-wiki%202/wiki/overview.md):整體綜述、爭議與資料缺口
+- [wiki/comparisons/risk-metrics-comparison.md](risk-wiki%202/wiki/comparisons/risk-metrics-comparison.md):四種指標總比較
+- [AGENTS.md](risk-wiki%202/AGENTS.md):Agent 的工作規範(頁面模板、出處標註、ingest / query / lint 流程)
 - 教學簡報:https://claude.ai/artifact/X1tYwyXWwQr4K1spMCeQX2 (需設定分享後才能開啟)
 
 ## 資料夾結構
